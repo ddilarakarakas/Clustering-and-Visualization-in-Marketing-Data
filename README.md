@@ -13,7 +13,7 @@ The dataset was explored with the analytical tools studied and a short “data u
 
 Improved and prepared data quality by introducing interesting _new features_ to define customer profile and purchasing behavior.
 
-## CLustering Analysis
+## Clustering Analysis
 
 The dataset was discovered using various clustering techniques, depending on the client's profile. Different algorithms and approaches were compared:
 
